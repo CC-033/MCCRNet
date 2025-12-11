@@ -21,17 +21,17 @@ This repository contains the official code and data access information for the w
 
 ### 2.2 Package Installation
 Install all required dependencies using `pip`:
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
-### 🚀 **3. Model Execution and Reproduction**
-#### **3.1 Pre-trained Checkpoints**
-The model weights used to report the results are provided within the /pre_trained_models directory of this repository.
+### 🚀 3. Model Execution and Reproduction
+#### 3.1 Pre-trained Checkpoints
 
-#### **3.2 Training the Model**
-Start the training process
+The model weights used to report the results are provided within the `/pre_trained_models` directory of this repository.
 
-'''bash
-python main.py --visual_encoder_type xx --acoustic_encoder_type --use_xx_fusion --save_name xx
-'''
+#### 3.2 Training the Model
+Start the training process:
+
+```bash
+python main.py --visual_encoder_type xx --acoustic_encoder_type xx --use_xx_fusion --save_name xx
