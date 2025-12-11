@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### 🚀 3. Model Execution and Reproduction
 #### 3.1 Pre-trained Checkpoints
 
-The model weights used to report the results are provided within the `/pre_trained_models` directory of this repository.
+The model weights used to report the results are provided in the `[/pre_trained_models](https://osf.io/fw28j/overview)`.
 
 #### 3.2 Training the Model
 Start the training process:
