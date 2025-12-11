@@ -16,10 +16,11 @@ This repository contains the official code and data access information for the w
 ## ⚙️ 2. Environment and Installation
 
 ### 2.1 Dependencies
+
 * Python Version: [Python 3.8+]
+
 ### 2.2 Package Installation
 Install all required dependencies using `pip`:
-
 '''bash
 pip install -r requirements.txt
 '''
